@@ -1,4 +1,5 @@
 title: Sindhu Errabelly
 logo: /assets/img/headshot_circle.png
-#show_downloads: true
+description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
