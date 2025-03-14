@@ -6,7 +6,7 @@ Technical Skills : Python, SQL, AWS, Azure, Tableau, PowerBI
 - Bachelor Of Business Administration   |   GITAM University
 
 ### Work Experience
-#### Sr. Data Engineer @ Celonis Inc. (Nov 2023 -  Present)
+#### Data Engineer @ Celonis Inc. (Nov 2023 -  Present)
 
 - Designed and optimized scalable ETL pipelines using Azure Data Factory, Apache Spark on Databricks, and Apache Airflow, enabling seamless data ingestion, transformation, and automation for process mining in Celonis EMS.
 - Developed real-time and batch data integration workflows leveraging Apache Kafka, Azure Event Hubs, and Delta Lake, reducing data latency by 40% and ensuring high availability of enterprise data from ERP, CRM, and cloud sources.
