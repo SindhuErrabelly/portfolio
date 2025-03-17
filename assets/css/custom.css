@@ -1,6 +1,6 @@
 img[src*="Profile.jpeg"] {
     width: 150px; /* Ensure equal width and height */
     height: 150px;
-    border-radius: 50px; /* Makes it circular */
+    border-radius: 150px; /* Makes it circular */
     object-fit: cover; /* Ensures proper fitting without distortion */
 }
