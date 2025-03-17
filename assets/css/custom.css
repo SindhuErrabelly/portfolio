@@ -1,7 +1,7 @@
 /* Target the profile image logo */
 img[src*="Profile.jpeg"] {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 200px;
     border-radius: 50%; /* Makes it round */
     object-fit: cover; /* Prevents stretching */
 }
