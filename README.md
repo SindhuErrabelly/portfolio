@@ -1,11 +1,3 @@
----
-title: Sindhu Errabelly
-logo: Profile.jpeg
-description: Text below image
-show_downloads: true
-theme: jekyll-theme-minimal
----
-
 <link rel="stylesheet" type="text/css" href="assets/css/custom.css">
 
 
