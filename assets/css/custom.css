@@ -1,7 +1,7 @@
 img[src*="Profile.jpeg"] {
-    width: 200px; /* Wide enough to create an oval */
-    height: 150px; /* Shorter height */
-    border-radius: 75px / 100px; /* Oval shape */
+    width: 200px;  /* Keep width fixed */
+    height: 150px; /* Keep height fixed */
+    border-radius: 60% / 80%; /* More vertical curvature */
     object-fit: cover; /* Ensures proper fitting */
-    display: block; /* Prevents inline display issues */
+    display: block; /* Prevents inline spacing issues */
 }
