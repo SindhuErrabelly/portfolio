@@ -1,7 +1,7 @@
 img[src*="Profile.jpeg"] {
     width: 200px;  /* Keep width fixed */
     height: 150px; /* Keep height fixed */
-    border-radius: 200% / 200%; /* More vertical curvature */
+    border-radius: 400% / 200%; /* More vertical curvature */
     object-fit: cover; /* Ensures proper fitting */
     display: block; /* Prevents inline spacing issues */
 }
