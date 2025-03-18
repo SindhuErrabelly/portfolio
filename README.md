@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="assets/css/custom.css">
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 
 # Data Engineer
