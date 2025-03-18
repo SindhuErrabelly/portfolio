@@ -3,10 +3,10 @@
 
 # Data Engineer
 
-### Professional Summary
+## Professional Summary
 Experienced Data Engineer specializing in scalable data pipelines, ETL workflows, and cloud-based solutions. Skilled in Azure, AWS, Databricks, Apache Spark, and real-time data streaming, with expertise in data modeling, governance, and security. Focused on process mining, predictive analytics, and automation, optimizing workflows and delivering business insights.
 
-### Technical Skills
+## Technical Skills
 - Cloud Platforms: Azure (ADF, ADLS, Synapse), AWS (S3, Redshift, Glue, Kinesis, Lambda, DynamoDB)
 - Big Data & ETL: Apache Spark, Databricks, Apache Airflow 
 - Data Streaming: Apache Kafka, AWS Kinesis, Azure Event Hubs
@@ -50,10 +50,10 @@ Experienced Data Engineer specializing in scalable data pipelines, ETL workflows
 - Designed interactive visualizations in Power BI, improving business reporting and data accessibility.
 - Assisted in developing ETL workflows using Apache NiFi, streamlining data ingestion and transformation.
 
-### Certifications
+## Certifications
 - Tableau Certified Data Analyst
 - Microsoft Certified Azure Data Fundamentals
 
-### Education
+## Education
 - Master of Science in Business Analytics – Montclair State University, USA
 - Bachelor of Business Administration – GITAM University, India
