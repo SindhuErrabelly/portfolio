@@ -3,7 +3,7 @@ logo: Profile.jpeg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
-include: ["assets/css/custom.css/"]
+include: ["assets/css/custom.css"]
 
 
 
