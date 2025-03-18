@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="assets/css/custom.css">
 
-
 # Data Engineer
+
 
 ## Professional Summary
 Experienced Data Engineer specializing in scalable data pipelines, ETL workflows, and cloud-based solutions. Skilled in Azure, AWS, Databricks, Apache Spark, and real-time data streaming, with expertise in data modeling, governance, and security. Focused on process mining, predictive analytics, and automation, optimizing workflows and delivering business insights.
